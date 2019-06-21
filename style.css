@@ -1,0 +1,117 @@
+#talco{
+    width: 200px;
+    height: 200px;
+    background: url(img/talco.jpg);
+    background-size: 200px;
+}
+.talco{
+    background-color: #ffffff; 
+    text-align : center ;
+    color: black;
+}
+#yeso{
+    width: 200px;
+    height: 200px;
+    background: url(img/yeso.jpg);
+    background-size: 200px;
+}
+.yeso{
+    background-color: #E6E6E6; 
+    text-align : center ;
+    color: black;
+}
+#calcita{
+    width: 200px;
+    height: 200px;
+    background: url(img/Calcita.jpg);
+    background-size: 200px;
+}
+.calcita{
+    background-color: #CCCCCC; 
+    text-align : center ;
+    color: black;
+}
+#fluorita{
+    width: 200px;
+    height: 200px;
+    background: url(img/flurorita.jpg);
+    background-size: 200px;
+}
+.fluorita{
+    background-color: #B3B3B3; 
+    text-align : center ;
+    color: white;
+}
+#apatito{
+    width: 200px;
+    height: 200px;
+    background: url(img/Apatito.jpg);
+    background-size: 200px;
+}
+.apatito{
+    background-color:#999999; 
+    text-align : center ;
+    color: white;
+}
+#ortosa{
+    width: 200px;
+    height: 200px;
+    background: url(img/Ortosa.jpg);
+    background-size: 200px;
+}
+.ortosa{
+    background-color:#808080; 
+    text-align : center ;
+    color: white;
+}
+#cuarzo{
+    width: 200px;
+    height: 200px;
+    background: url(img/cuarzo.jpg);
+    background-size: 200px;
+}
+.cuarzo{
+    background-color: #666666; 
+    text-align : center ;
+    color: white;
+}
+#topacio{
+    width: 200px;
+    height: 200px;
+    background: url(img/topacio.jpg);
+    background-size: 200px;
+}
+.topacio{
+    background-color: #4C4C4C; 
+    text-align : center ;
+    color: white;
+}
+#coridon{
+    width: 200px;
+    height: 200px;
+    background: url(img/coridon.jpg);
+    background-size: 200px;
+}
+.coridon{
+    background-color: #333333; 
+    text-align : center ;
+    color: white;
+}
+#diamante{
+    width: 200px;
+    height: 200px;
+    background: url(img/diamante.jpg);
+    background-size: 200px;
+}
+.diamante{
+    background-color: #191919; 
+    text-align : center ;
+    color: white;
+}
+.num{
+   width: 40px; 
+}
+.nom{
+    width: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
